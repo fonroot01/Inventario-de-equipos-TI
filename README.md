@@ -30,6 +30,7 @@ Este proyecto nació como una idea durante mi experiencia en soporte técnico en
 - Soporte para imagen de fondo institucional.
 - Componentes personalizados con una paleta de colores profesional.
 
+---
 ![Screenshot_1](https://github.com/user-attachments/assets/eae122fd-e360-493a-82f2-3fcfb628c728)
 ---
 
@@ -44,7 +45,7 @@ Inventario_equipos_TI/
 ├── export.py              # Funciones para exportar datos a Excel o CSV
 ├── utils.py               # Funciones auxiliares
 ├── config.py              # Configuración global de la app
-├── iconozeuss.ico         # Ícono de la aplicación
+├── iconoInvenSoft.ico     # Ícono de la aplicación
 ├── README.md              # Documentación del proyecto
 └── requirements.txt       # Lista de dependencias
 ```
@@ -76,6 +77,7 @@ CREATE TABLE InventarioEquipos (
     NumeroSerie NVARCHAR(100),
     Estado NVARCHAR(50)
 );
+
 ```
 ![Screenshot_2](https://github.com/user-attachments/assets/abd51b12-080b-4b8d-805a-5877862d5abd)
 ---
