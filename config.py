@@ -1,7 +1,7 @@
 # config.py
 CONFIG = {
-    "empresa": "Zeuss",
-    "icono": r"C:\PROYECTOS_Python\Inventario_equipos_Zeuss\iconozeuss.ico",  # Ruta del icono
+    "empresa": "InvenSoft",
+    "icono": r"C:\PROYECTOS_Python\Inventario_equipos_Zeuss\iconoInvenSoft.ico",  # Ruta del icono
     "fondo": r"C:\PROYECTOS_Python\Inventario_equipos_Zeuss\Image\fondo.png",  # Ruta del fondo
     "colores": {
         "fondo": "#e8f0fe",  # Color de fondo en formato hexadecimal
