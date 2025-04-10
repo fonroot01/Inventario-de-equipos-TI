@@ -1,6 +1,9 @@
-# Inventario de Equipos TI
 
-Este proyecto nació como una idea durante mi experiencia en soporte técnico en Zeuss SAS. Hoy lo desarrollé por mi cuenta como una solución de gestión de inventario moderna y adaptable a cualquier empresa. Esta aplicación de escritorio desarrollada en Python con PyQt5, diseñada para gestionar el inventario de equipos tecnológicos. Permite registrar, editar, eliminar y consultar información sobre equipos de manera visual, rápida y eficiente.
+![banner](https://github.com/user-attachments/assets/00326303-a0ca-4b33-a3ee-a6426263917f)
+
+# Inventario de Equipos TI - InvenSSotf
+
+Este proyecto nació como una idea durante mi experiencia en soporte técnico en Zeuss SAS. Hoy, lo he desarrollado de forma independiente como una solución moderna y adaptable para la gestión de inventario en cualquier empresa. Se trata de una aplicación de escritorio desarrollada en Python con PyQt5, conectada a una base de datos SQL Server para el almacenamiento y manejo eficiente de la información.
 
 ---
 
@@ -27,13 +30,13 @@ Este proyecto nació como una idea durante mi experiencia en soporte técnico en
 - Soporte para imagen de fondo institucional.
 - Componentes personalizados con una paleta de colores profesional.
 
-![Interfaz](https://github.com/user-attachments/assets/cb83fb05-8681-4b23-bac9-9a1f5c03bfde)
+![Screenshot_1](https://github.com/user-attachments/assets/eae122fd-e360-493a-82f2-3fcfb628c728)
 ---
 
 ## Estructura del Proyecto
 
 ```
-Inventario_equipos_Zeuss/
+Inventario_equipos_TI/
 │
 ├── main.py                # Archivo principal de la aplicación
 ├── database.py            # Lógica de conexión y consultas SQL Server
@@ -74,7 +77,7 @@ CREATE TABLE InventarioEquipos (
     Estado NVARCHAR(50)
 );
 ```
-![Basededatos](https://github.com/user-attachments/assets/0733209f-2950-4e43-9874-5ac1e89a1caa)
+![Screenshot_2](https://github.com/user-attachments/assets/abd51b12-080b-4b8d-805a-5877862d5abd)
 ---
 
 ## Requisitos
