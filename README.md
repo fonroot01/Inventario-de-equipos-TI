@@ -1,4 +1,4 @@
-# Inventario de Equipos TI - Zeuss Los Búcaros
+# Inventario de Equipos TI - Zeuss
 
 Este proyecto es una aplicación de escritorio desarrollada en Python con PyQt5, diseñada para gestionar el inventario de equipos tecnológicos de la empresa Zeuss. Permite registrar, editar, eliminar y consultar información sobre equipos de manera visual, rápida y eficiente.
 
