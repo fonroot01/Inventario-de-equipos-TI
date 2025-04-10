@@ -1,4 +1,4 @@
-# Inventario de Equipos TI - Zeuss
+# Inventario de Equipos TI - Zeuss SAS
 
 Este proyecto es una aplicación de escritorio desarrollada en Python con PyQt5, diseñada para gestionar el inventario de equipos tecnológicos de la empresa Zeuss. Permite registrar, editar, eliminar y consultar información sobre equipos de manera visual, rápida y eficiente.
 
@@ -22,11 +22,12 @@ Este proyecto es una aplicación de escritorio desarrollada en Python con PyQt5,
 - Filtro por estado desde una lista desplegable.
 
 ### Interfaz Gráfica
-- Estilo visual minimalista con colores corporativos de Zeuss Los Búcaros.
+- Estilo visual minimalista con colores corporativos de Zeuss SAS.
 - Tipografías modernas y botones estilizados.
 - Soporte para imagen de fondo institucional.
 - Componentes personalizados con una paleta de colores profesional.
 
+![Interfaz](https://github.com/user-attachments/assets/cb83fb05-8681-4b23-bac9-9a1f5c03bfde)
 ---
 
 ## Estructura del Proyecto
@@ -73,7 +74,7 @@ CREATE TABLE InventarioEquipos (
     Estado NVARCHAR(50)
 );
 ```
-
+![Basededatos](https://github.com/user-attachments/assets/0733209f-2950-4e43-9874-5ac1e89a1caa)
 ---
 
 ## Requisitos
