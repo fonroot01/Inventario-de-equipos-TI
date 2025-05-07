@@ -1,5 +1,6 @@
 
-![banner](https://github.com/user-attachments/assets/00326303-a0ca-4b33-a3ee-a6426263917f)
+![logo-Photoroom-removebg-preview](https://github.com/user-attachments/assets/67d0959e-2e14-480b-890c-e4dff244c1fb)
+
 
 # Inventario de Equipos TI - InvenSotf
 
