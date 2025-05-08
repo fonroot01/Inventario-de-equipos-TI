@@ -1,7 +1,5 @@
 
-![logo-Photoroom-removebg-preview](https://github.com/user-attachments/assets/67d0959e-2e14-480b-890c-e4dff244c1fb)
-
-
+![banner-Photoroom__1_-removebg-preview](https://github.com/user-attachments/assets/d7715323-c296-4b11-b30d-a08c7caa4ea8)
 # Inventario de Equipos TI - InvenSotf
 
 Este proyecto nació como una idea durante mi experiencia en soporte técnico en Zeuss SAS. Hoy, lo he desarrollado de forma independiente como una solución moderna y adaptable para la gestión de inventario en cualquier empresa. Se trata de una aplicación de escritorio desarrollada en Python con PyQt5, conectada a una base de datos SQL Server para el almacenamiento y manejo eficiente de la información.
